@@ -8,4 +8,8 @@ helo
 hi
 shiva is good
 we are good friends
+<<<<<<< HEAD
 he is a very good bye
+=======
+sudha is good girl
+>>>>>>> ec3c0598b489ec35767a04ee30ba20539e231c68
